@@ -1,0 +1,41 @@
+body{
+    background: #cccccc;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+}
+.header {
+    background: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    max-width: 500px;
+    margin: auto;
+}
+div.post h2{
+    float: left;
+    padding: 5px 10px 10px;
+    margin: 0;
+    font-size: 20px;
+}
+div.post img{
+    width: 100%;
+}
+div.post p{
+    padding: 10px;
+}
+p.date {
+    text-align: right;
+    color: #cccccc;
+    margin-bottom: 5px;
+}
+div.post-description p{
+    margin-top: 3px;
+}
